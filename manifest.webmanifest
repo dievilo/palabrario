@@ -1,0 +1,17 @@
+{
+  "name": "Palabrario",
+  "short_name": "Palabrario",
+  "description": "Estudia vocabulario con tarjetas, libros clásicos y tus propias palabras. Todo se guarda en tu dispositivo.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F1F3F7",
+  "theme_color": "#12203B",
+  "lang": "es",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
